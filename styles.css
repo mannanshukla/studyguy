@@ -18,12 +18,12 @@
 html {
   /* font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UISymbol", "Noto Color Emoji"; */
   font: 18px/1.5 -apple-system, "Segoe UI";
-  background: #000a12;
-  color: #fff;
+  background: #49416D;
+  color: #E0EFDE;
 }
 
 a {
-  color: #9fffe0;
+  color: #E08D79;
 }
 
 #nav {
